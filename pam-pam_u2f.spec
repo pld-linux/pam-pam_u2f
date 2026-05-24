@@ -2,7 +2,7 @@ Summary:	A Pluggable Authentication Module for Universal 2nd Factor (U2C)
 Summary(pl.UTF-8):	Moduł PAM dla urządzeń Universal 2nd Factor (U2C)
 Name:		pam-pam_u2f
 Version:	1.0.8
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/System
 Source0:	https://developers.yubico.com/pam-u2f/Releases/pam_u2f-%{version}.tar.gz
